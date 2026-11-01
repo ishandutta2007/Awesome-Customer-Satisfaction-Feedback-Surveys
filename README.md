@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,69 +67,69 @@ The following table lists leading commercial SaaS customer satisfaction and surv
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-A curated selection of the best open-source survey engines, customer feedback tools, and form builders, ranked in descending order by GitHub Stars ⭐. Each repository includes a real-time badge linking directly to its stargazer community.
+A curated selection of the best open-source survey engines, customer feedback tools, and form builders, ranked in descending order by GitHub_Stars ⭐. Each repository includes a real-time badge linking directly to its stargazer community.
 
-### 1. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🌟
+### 1. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🌟
 * **Description:** Open-source survey and experience management suite built as a privacy-centric alternative to Qualtrics and Delighted. Specializes in targeted, contextual in-product micro-surveys and event-based triggers.
 * **Features:** In-app, web, link, and email surveys; no-code survey builder; behavioral user targeting without application redeployments; seamless integrations with Slack, Segment, n8n, and Zapier; full GDPR compliance and self-hosting.
 * **Tech Stack:** TypeScript, Next.js, Tailwind CSS, Prisma, PostgreSQL.
 * **License:** AGPL-3.0.
 
-### 2. **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers) 🌟
+### 2. **[HeyForm](https://github.com/heyform/heyform)** [![GitHub_Stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers) 🌟
 * **Description:** Open-source conversational form builder and modern Typeform alternative for engaging customer questionnaires, polls, and feedback widgets.
 * **Features:** Visual drag-and-drop builder; complex conditional branch logic; 30+ question types; custom CSS styling and white-labeling; webhook dispatchers and CSV exports; single-command Docker deployment.
 * **Tech Stack:** Node.js, React, MongoDB, Redis.
 * **License:** AGPL-3.0.
 
-### 3. **[SurveyJS Library](https://github.com/surveyjs/survey-library)** [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers) 🌟
+### 3. **[SurveyJS Library](https://github.com/surveyjs/survey-library)** [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers) 🌟
 * **Description:** Free and open-source JavaScript form and survey UI component library for modern web applications.
 * **Features:** JSON-driven architecture; seamless framework support for React, Angular, Vue 2/3, and vanilla JS; multi-page survey wizards; dynamic branching and client-side calculations; full PDF export integration.
 * **Tech Stack:** JavaScript, TypeScript (React, Angular, Vue).
 * **License:** MIT.
 
-### 4. **[Fider](https://github.com/getfider/fider)** [![GitHub stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers) 🌟
+### 4. **[Fider](https://github.com/getfider/fider)** [![GitHub_Stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers) 🌟
 * **Description:** Open-source public customer feedback and product suggestion platform where users share ideas, vote on feature roadmaps, and discuss enhancements.
 * **Features:** Upvoting boards; clean community discussions; email notifications; OAuth single sign-on (Google, GitHub, Facebook, Azure AD); markdown formatting; ultra-lightweight Docker deployment.
 * **Tech Stack:** Go (Golang), React, PostgreSQL.
 * **License:** AGPL-3.0.
 
-### 5. **[SurveyKing](https://github.com/javahuang/SurveyKing)** [![GitHub stars](https://img.shields.io/github/stars/javahuang/SurveyKing?style=social&color=white)](https://github.com/javahuang/SurveyKing/stargazers) 🌟
+### 5. **[SurveyKing](https://github.com/javahuang/SurveyKing)** [![GitHub_Stars](https://img.shields.io/github/stars/javahuang/SurveyKing?style=social&color=white)](https://github.com/javahuang/SurveyKing/stargazers) 🌟
 * **Description:** Feature-complete, enterprise-ready survey and examination system designed as a self-hosted alternative to SurveyMonkey.
 * **Features:** One-command deployment; 20+ question types; permission-based multi-user workspace management; barcode and question flow logic; rich visual analytics dashboards; offline questionnaire collection support.
 * **Tech Stack:** Java, Spring Boot, Vue.js, MySQL / PostgreSQL.
 * **License:** Apache-2.0.
 
-### 6. **[Xiaoju Survey](https://github.com/didi/xiaoju-survey)** [![GitHub stars](https://img.shields.io/github/stars/didi/xiaoju-survey?style=social&color=white)](https://github.com/didi/xiaoju-survey/stargazers) 🌟
+### 6. **[Xiaoju Survey](https://github.com/didi/xiaoju-survey)** [![GitHub_Stars](https://img.shields.io/github/stars/didi/xiaoju-survey?style=social&color=white)](https://github.com/didi/xiaoju-survey/stargazers) 🌟
 * **Description:** Enterprise-grade questionnaire, survey, and quiz system open-sourced by Didi.
 * **Features:** Rich question configuration; flexible visual theme builder; logic jump rules; automated statistical charting; cross-device responsive survey rendering; enterprise access control.
 * **Tech Stack:** Node.js (NestJS), Vue 3, TypeScript, MySQL.
 * **License:** Apache-2.0.
 
-### 7. **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) 🌟
+### 7. **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) 🌟
 * **Description:** The veteran, research-grade open-source survey engine trusted since 2006 by leading universities, market researchers, and governments globally.
 * **Features:** 30+ sophisticated question types; 80+ supported languages; advanced statistical data export (SPSS, R, STATA, CSV); intricate quota management; assessment scoring; full WCAG 2.0 and GDPR compliance.
 * **Tech Stack:** PHP, MySQL / MariaDB / PostgreSQL.
 * **License:** GPL-2.0.
 
-### 8. **[DWSurvey](https://github.com/wkeyuan/DWSurvey)** [![GitHub stars](https://img.shields.io/github/stars/wkeyuan/DWSurvey?style=social&color=white)](https://github.com/wkeyuan/DWSurvey/stargazers) 🌟
+### 8. **[DWSurvey](https://github.com/wkeyuan/DWSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/wkeyuan/DWSurvey?style=social&color=white)](https://github.com/wkeyuan/DWSurvey/stargazers) 🌟
 * **Description:** Convenient, secure, and extensible open-source online survey questionnaire and assessment tool.
 * **Features:** WYSIWYG questionnaire designer; branch logic rules; mobile-optimized response views; data cross-analysis; multiple export formats; role-based administration.
 * **Tech Stack:** Java, Spring Boot, React, MySQL.
 * **License:** AGPL-3.0.
 
-### 9. **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers) 🌟
+### 9. **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub_Stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers) 🌟
 * **Description:** Clean, lightweight open-source form builder and survey tool inspired by Typeform and TellForm.
 * **Features:** Embeddable responsive forms; Forms-as-a-Service API; customizable webhook notifications on submission; submissions exportable to XLS, JSON, and CSV; minimal deployment footprint.
 * **Tech Stack:** Node.js, Vue.js, PostgreSQL / SQLite.
 * **License:** Apache-2.0.
 
-### 10. **[Astuto](https://github.com/astuto/astuto)** [![GitHub stars](https://img.shields.io/github/stars/astuto/astuto?style=social&color=white)](https://github.com/astuto/astuto/stargazers) 🌟
+### 10. **[Astuto](https://github.com/astuto/astuto)** [![GitHub_Stars](https://img.shields.io/github/stars/astuto/astuto?style=social&color=white)](https://github.com/astuto/astuto/stargazers) 🌟
 * **Description:** Modern, self-hosted customer feedback tool and public feature request board inspired by Canny.
 * **Features:** User feedback collection; roadmap boards; changelog publishing; user upvoting; privacy-centric self-hosting via Docker; clean UI design.
 * **Tech Stack:** Ruby on Rails, Vue.js, PostgreSQL.
 * **License:** GNU GPLv3.
  
-### 11. **[LogChimp](https://github.com/logchimp/logchimp)** [![GitHub stars](https://img.shields.io/github/stars/logchimp/logchimp?style=social&color=white)](https://github.com/logchimp/logchimp/stargazers) 🌟
+### 11. **[LogChimp](https://github.com/logchimp/logchimp)** [![GitHub_Stars](https://img.shields.io/github/stars/logchimp/logchimp?style=social&color=white)](https://github.com/logchimp/logchimp/stargazers) 🌟
 * **Description:** Open-source product feedback tracker and feature request management software alternative to Canny and ProductBoard.
 * **Features:** Public and private feedback boards; user voting and roadmap prioritization; user sentiment tracking; customizable statuses; fast modern web application.
 * **Tech Stack:** Node.js, Express, Vue.js, PostgreSQL.
