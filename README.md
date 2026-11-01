@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global customer feedback and feedback management software market is estimated at approximately **$2.7B to $3.8B** (scaling toward **$18B+** when broadly encompassing enterprise experience management and survey platforms), expanding at an ~11–14% CAGR. The sector is **moderately fragmented**: while hundreds of specialized micro-survey apps, form builders, and point solutions compete for SME and product-led growth teams, large enterprise voice-of-the-customer (VoC) spending remains heavily consolidated among dominant incumbents (such as Qualtrics, Medallia, InMoment, and SurveyMonkey) that regularly acquire emerging point solutions.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Qualtrics](https://www.qualtrics.com/)**
-
-  **Enterprise experience management platform** with NPS, CSAT, CES, and advanced analytics. **Pricing**: **Free Account** with **500 lifetime responses and 3 active surveys**; paid tiers quote-only. **Free tier**: Yes, lifetime limits. **Best for**: individuals and teams wanting to explore Qualtrics capabilities before enterprise commitment—**trade-off**: 500 lifetime responses exhaust quickly; no email distribution on free tier .
-
-
-
-- **[SurveyMonkey](https://www.surveymonkey.com/)**
-
-  **Survey platform** with NPS templates and basic analytics. **Pricing**: **Basic (free)** with **1 user, unlimited surveys, 10 questions per survey, limited responses**; paid plans from ~$25/month. **Free tier**: Yes, 10 questions/limited responses. **Best for**: simple surveys and quick feedback collection—**trade-off**: response limits on free tier; advanced logic requires paid plans .
-
-
-
-- **[Typeform](https://www.typeform.com/)**
-
-  **Conversational form builder** with NPS and logic branching. **Pricing**: **Free plan** with **10 responses/month and unlimited forms**; Typeform branding on every form; no custom domain. **Free tier**: Yes, 10 responses/month. **Best for**: engaging, conversational survey experiences—**trade-off**: 10 responses/month is a sandbox, not production .
-
-
-
-- **[Delighted](https://delighted.com/)** (Qualtrics)
-
-  **NPS-focused feedback platform** with automated email/SMS collection and AI text analysis. **Pricing**: Quote-only; third-party listings show starting prices but no public free tier details. **Free tier**: Not specified in results. **Best for**: teams wanting turnkey NPS automation with Slack/Salesforce integrations—**trade-off**: quote-based pricing .
-
-
-
-- **[Survicate](https://survicate.com/)**
-
-  **Customer feedback platform** with in-product, website, and email surveys. **Pricing**: **Free account** with **up to 3 teammates, 25 survey responses/month, unlimited active surveys (300 collective response limit)**, branch logic, and 400+ templates. **Free tier**: Yes, permanent free plan. **Best for**: small teams wanting a genuine free tier with in-product survey capability—**trade-off**: 25 responses/month; 300 collective cap across active surveys .
-
-
-
-- **[AskNicely](https://www.asknicely.com/)**
-
-  **NPS and customer experience platform** for frontline teams. **Pricing**: Starting at **$399/month** per third-party listings; free trial available. **Free tier**: Trial only. **Best for**: service teams wanting NPS tied to frontline coaching—**trade-off**: premium entry price .
-
-
-
-- **[CustomerGauge](https://customergauge.com/)**
-
-  **B2B NPS and account experience platform**. **Pricing**: **Pricing available upon request**; no public tiers. **Free tier**: Not specified. **Best for**: B2B organizations wanting account-level NPS and revenue impact analysis—**trade-off**: quote-only; enterprise focus .
-
-
-
-- **[InMoment](https://inmoment.com/)**
-
-  **Experience improvement platform** with NPS and text analytics. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting AI-powered feedback analysis at scale.
-
-
-
-- **[Nicereply](https://www.nicereply.com/)**
-
-  **CSAT, NPS, and CES** for support teams with helpdesk integrations. **Pricing**: Starting at **$59/month** per third-party listings; free trial available. **Free tier**: Trial only. **Best for**: support teams wanting feedback tied to tickets—**trade-off**: per-agent pricing .
-
-
-
-- **[HubSpot Surveys](https://www.hubspot.com/)**
-
-  **NPS, CSAT, and CES surveys** within HubSpot Service Hub. **Pricing**: Included with Service Hub Professional ($100/seat/month) and Enterprise. **Free tier**: Limited. **Best for**: HubSpot users wanting feedback integrated with CRM and tickets.
-
-
+| Company / Product | Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier / Trial Limits | Description & Core Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[HubSpot Surveys](https://www.hubspot.com/)** | **~$21.0B–$35.9B** market cap (~$2.6B–$3.1B annual revenue) | **$100/seat/month** (Service Hub Professional tier required for NPS/CSAT surveys; or Service Hub Starter from $15/seat/month) | **14-day free trial** of Professional features (full access to surveys and ticketing; no credit card required); permanent Smart CRM free tier limited to 2 seats and 1,000 contacts (surveys excluded) | Native NPS, CSAT, and CES surveys tied directly to tickets, deals, and CRM automation records. |
+| **[Qualtrics](https://www.qualtrics.com/)** | **$12.5B** valuation (acquired by Silver Lake; ~$1.5B annual revenue) | **$420/month** ($5,040/year billed annually for Strategic Research tier; enterprise CustomerXM is custom quote) | **Permanent free account** limited to **500 lifetime responses** across the account, 3 active surveys at a time, up to 30 questions/survey, and web link sharing (no email distribution) | Enterprise experience management platform with extensive survey logic, CES/NPS/CSAT metrics, and advanced text analytics. |
+| **[SurveyMonkey](https://www.surveymonkey.com/)** | **$1.5B** valuation (acquired by STG; ~$481M annual revenue) | **$39/month** (Advantage tier billed annually at $468/year; or $99/month on month-to-month billing; Team plans from $30/user/month with 3-seat min) | **Permanent free Basic plan** with unlimited surveys, but capped at **10 questions per survey** and only **25–40 viewable responses per survey** (excess responses locked behind paywall; exports disabled) | High-volume general survey platform with standardized NPS templates, benchmark comparisons, and extensive ecosystem integrations. |
+| **[Typeform](https://www.typeform.com/)** | **~$935M** valuation (~$80M–$140M+ ARR) | **$28/month** (Basic tier billed annually at $336/year; or $39/month billed monthly) | **Permanent free plan** limited to **10 responses/month**, unlimited forms, 1 user seat, and Typeform-branded survey interfaces | Conversational, one-question-at-a-time form and survey builder optimized for user engagement and mobile completion rates. |
+| **[InMoment](https://inmoment.com/)** | **~$50M–$53M** annual revenue (Acquired by Press Ganey Forsta) | **~$50/user/month** for entry modules (Comprehensive Voice of Customer enterprise packages start around ~$25,000–$50,000/year custom quote) | **30-day free trial** available for digital micro-surveys / CoreCX modules (full XI enterprise suite evaluated via custom guided demo) | Enterprise Experience Improvement (XI) platform delivering omnichannel feedback aggregation, NLP sentiment detection, and case management. |
+| **[AskNicely](https://www.asknicely.com/)** | **~$7.9M–$10.6M** annual revenue ($47M+ funding raised) | **$449/month** (Learn tier, billed annually; Grow tier starts at $849/month) | **No self-serve free trial** (access provided via personalized sales demonstration tailored to business CRM workflows) | Dedicated customer experience and NPS platform designed around real-time frontline employee coaching, feedback routing, and Google review generation. |
+| **[CustomerGauge](https://customergauge.com/)** | **~$6.6M–$25M** annual revenue ($2.5M+ Series A funding) | **~$20,000/year** platform base license (approx. ~$1,666/month billed annually) | **No free tier or free trial** (offers structured 60–90 day paid pilots with dedicated onboarding rather than unpaid self-serve trials) | Account Experience (AX) platform designed specifically for B2B enterprises to tie Net Promoter Scores directly to account revenue, churn risk, and upsell pipelines. |
+| **[Survicate](https://survicate.com/)** | **~$4.0M–$4.4M** ARR ($4.6M total funding) | **$49/month** (Starter tier billed annually, or $56/month billed monthly for 100 responses/month) | **Permanent free plan** limited to **25 responses/month**, 3 teammate seats, 1 active survey, and 300 lifetime responses; also offers a 10-day full-feature trial | Multi-channel feedback platform specializing in in-product micro-surveys, web popups, and email/link NPS questionnaires. |
+| **[Delighted](https://delighted.com/)** | **~$1.1M–$4.5M** subsidiary revenue (Subsidiary of Qualtrics) | **$17/month** (Entry Starter tier for up to 50 responses/month; scales to $249+/month for Advanced tiers) | **Permanent free tier** capped at **25 responses/month**, 1 user seat, and 1 survey project (or 14-day premium feature trial) | Turnkey, minimal-friction NPS, CSAT, and CES survey automation across email, web, and SMS with instant team channel alerts. |
+| **[Nicereply](https://www.nicereply.com/)** | **~$660K–$1.6M** annual revenue (Private / Bootstrapped) | **$59/month** (Starter tier for up to 100 responses/month, billed annually; or $79/month billed monthly) | **14-day free trial** with full feature access and unlimited test surveys (no credit card required; automatically expires without billing) | Support-desk feedback tool designed to trigger CSAT, CES, and NPS surveys directly within Zendesk, Freshdesk, Front, and Help Scout ticket interactions. |
 
 ## Open-Source GitHub Projects
 
