@@ -1,50 +1,56 @@
-# Awesome-Customer-Satisfaction-Feedback-Surveys
+# Awesome-Customer-Satisfaction-Feedback-Surveys 🌟
 
-# Awesome-Customer-Satisfaction-Feedback-Surveys
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Customer Satisfaction and Feedback Surveys Banner" width="100%" />
+</p>
 
-**Top Customer Satisfaction Feedback Surveys (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
+## 🎯 Overview & Introduction 🚀
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+Welcome to the definitive, community-driven catalog of **Customer Satisfaction (CSAT)**, **Net Promoter Score (NPS)**, **Customer Effort Score (CES)**, and **In-Product Micro-Survey** platforms. 
 
-*Focused on NPS/CSAT Collection, In-Product Micro-Surveys, Research Questionnaires & Self-Hosted Feedback Platforms*
+Whether you are looking for enterprise-grade SaaS platforms with automated sentiment analytics, or self-hosted, privacy-first, GDPR-compliant open-source alternatives, this curated guide benchmarks the entire customer voice and feedback landscape.
 
-**Last updated: November 2026**
+### 🔍 Key Metrics Defined:
+* 🌟 **Net Promoter Score (NPS):** Measures customer brand loyalty, retention likelihood, and advocacy via the standard 0–10 scale.
+* 🎯 **Customer Satisfaction (CSAT):** Captures transactional sentiment immediately following specific customer interactions or feature releases.
+* ⚡ **Customer Effort Score (CES):** Evaluates friction and ease-of-use during support resolutions and onboarding flows.
+* 💬 **In-Product Micro-Surveys:** Contextual, event-triggered 1-to-2 question widgets displayed within web and mobile applications without code rewrites.
 
+---
 
+## 📑 Table of Contents 🧭
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Satisfaction & Feedback Surveys**. These tools enable teams to measure Net Promoter Score, Customer Satisfaction, and Customer Effort Score, collect feedback at every touchpoint, and turn responses into action—from fully managed platforms with AI analysis to self-hosted survey engines that give organizations complete ownership of response data and GDPR compliance.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-
-**Examples** include Qualtrics, SurveyMonkey, Typeform, Delighted, Survicate, AskNicely, CustomerGauge, InMoment, Nicereply, and HubSpot Surveys (the category leaders in commercial space).
-
-
-
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted NPS, in-app surveys, and open feedback infrastructure. **Critical note**: The open-source landscape is genuinely viable—**Formbricks** is the modern choice for in-product NPS and micro-surveys with behavior-based targeting , while **LimeSurvey** remains the veteran for research-grade questionnaires with 30+ question types and deep logic . **HeyForm** and **OhMyForm** offer lighter form-builder alternatives. No single open-source project matches Qualtrics's research depth or Delighted's NPS automation, but for core satisfaction measurement, Formbricks and LimeSurvey are production-proven.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics 📈
 
 The global customer feedback and feedback management software market is estimated at approximately **$2.7B to $3.8B** (scaling toward **$18B+** when broadly encompassing enterprise experience management and survey platforms), expanding at an ~11–14% CAGR. The sector is **moderately fragmented**: while hundreds of specialized micro-survey apps, form builders, and point solutions compete for SME and product-led growth teams, large enterprise voice-of-the-customer (VoC) spending remains heavily consolidated among dominant incumbents (such as Qualtrics, Medallia, InMoment, and SurveyMonkey) that regularly acquire emerging point solutions.
 
-## SaaS/Hosted Platforms
+---
 
-| Company / Product | Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier / Trial Limits | Description & Core Focus |
+## 🏢 SaaS / Hosted Platforms 🌐
+
+The following table lists leading commercial SaaS customer satisfaction and survey solutions, sorted by company scale (valuation / market capitalization / revenue) in descending order:
+
+| 🏢 Company / Product | 📏 Scale (Valuation / Revenue) | 🏷️ Starting Pricing Tier | 🎁 Free Tier / Trial Limits | 💡 Description & Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[HubSpot Surveys](https://www.hubspot.com/)** | **~$21.0B–$35.9B** market cap (~$2.6B–$3.1B annual revenue) | **$100/seat/month** (Service Hub Professional tier required for NPS/CSAT surveys; or Service Hub Starter from $15/seat/month) | **14-day free trial** of Professional features (full access to surveys and ticketing; no credit card required); permanent Smart CRM free tier limited to 2 seats and 1,000 contacts (surveys excluded) | Native NPS, CSAT, and CES surveys tied directly to tickets, deals, and CRM automation records. |
 | **[Qualtrics](https://www.qualtrics.com/)** | **$12.5B** valuation (acquired by Silver Lake; ~$1.5B annual revenue) | **$420/month** ($5,040/year billed annually for Strategic Research tier; enterprise CustomerXM is custom quote) | **Permanent free account** limited to **500 lifetime responses** across the account, 3 active surveys at a time, up to 30 questions/survey, and web link sharing (no email distribution) | Enterprise experience management platform with extensive survey logic, CES/NPS/CSAT metrics, and advanced text analytics. |
@@ -57,90 +63,118 @@ The global customer feedback and feedback management software market is estimate
 | **[Delighted](https://delighted.com/)** | **~$1.1M–$4.5M** subsidiary revenue (Subsidiary of Qualtrics) | **$17/month** (Entry Starter tier for up to 50 responses/month; scales to $249+/month for Advanced tiers) | **Permanent free tier** capped at **25 responses/month**, 1 user seat, and 1 survey project (or 14-day premium feature trial) | Turnkey, minimal-friction NPS, CSAT, and CES survey automation across email, web, and SMS with instant team channel alerts. |
 | **[Nicereply](https://www.nicereply.com/)** | **~$660K–$1.6M** annual revenue (Private / Bootstrapped) | **$59/month** (Starter tier for up to 100 responses/month, billed annually; or $79/month billed monthly) | **14-day free trial** with full feature access and unlimited test surveys (no credit card required; automatically expires without billing) | Support-desk feedback tool designed to trigger CSAT, CES, and NPS surveys directly within Zendesk, Freshdesk, Front, and Help Scout ticket interactions. |
 
-## Open-Source GitHub Projects
+---
 
+## 🔓 Open-Source GitHub Projects 🛠️
 
+A curated selection of the best open-source survey engines, customer feedback tools, and form builders, ranked in descending order by GitHub Stars ⭐. Each repository includes a real-time badge linking directly to its stargazer community.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)**
+### 1. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers) 🌟
+* **Description:** Open-source survey and experience management suite built as a privacy-centric alternative to Qualtrics and Delighted. Specializes in targeted, contextual in-product micro-surveys and event-based triggers.
+* **Features:** In-app, web, link, and email surveys; no-code survey builder; behavioral user targeting without application redeployments; seamless integrations with Slack, Segment, n8n, and Zapier; full GDPR compliance and self-hosting.
+* **Tech Stack:** TypeScript, Next.js, Tailwind CSS, Prisma, PostgreSQL.
+* **License:** AGPL-3.0.
 
-  **Open-source survey and experience management platform** (AGPLv3, ~10,000+ stars) — **the best open-source choice for in-product NPS and behavior-triggered micro-surveys** . **Features**: **In-app, website, link, and email surveys**; no-code editor with multiple question types; **target specific user groups without changing application code**; shareable link surveys; team collaboration; integrations with Slack, Notion, Zapier, and n8n; **privacy-first and self-hostable**; built on Next.js, TypeScript, and PostgreSQL . **Tech stack**: TypeScript (Next.js), PostgreSQL. **Deploy**: Self-hosted (Docker) or Formbricks Cloud . **Trade-off**: **In-product focus**—less suited for long-form research questionnaires than LimeSurvey; enterprise features may be gated in paid tier. **Best for**: SaaS and product teams wanting contextual NPS that fires while users are in the app—with full data ownership and GDPR compliance.
+### 2. **[HeyForm](https://github.com/heyform/heyform)** [![GitHub stars](https://img.shields.io/github/stars/heyform/heyform?style=social&color=white)](https://github.com/heyform/heyform/stargazers) 🌟
+* **Description:** Open-source conversational form builder and modern Typeform alternative for engaging customer questionnaires, polls, and feedback widgets.
+* **Features:** Visual drag-and-drop builder; complex conditional branch logic; 30+ question types; custom CSS styling and white-labeling; webhook dispatchers and CSV exports; single-command Docker deployment.
+* **Tech Stack:** Node.js, React, MongoDB, Redis.
+* **License:** AGPL-3.0.
 
+### 3. **[SurveyJS Library](https://github.com/surveyjs/survey-library)** [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers) 🌟
+* **Description:** Free and open-source JavaScript form and survey UI component library for modern web applications.
+* **Features:** JSON-driven architecture; seamless framework support for React, Angular, Vue 2/3, and vanilla JS; multi-page survey wizards; dynamic branching and client-side calculations; full PDF export integration.
+* **Tech Stack:** JavaScript, TypeScript (React, Angular, Vue).
+* **License:** MIT.
 
+### 4. **[Fider](https://github.com/getfider/fider)** [![GitHub stars](https://img.shields.io/github/stars/getfider/fider?style=social&color=white)](https://github.com/getfider/fider/stargazers) 🌟
+* **Description:** Open-source public customer feedback and product suggestion platform where users share ideas, vote on feature roadmaps, and discuss enhancements.
+* **Features:** Upvoting boards; clean community discussions; email notifications; OAuth single sign-on (Google, GitHub, Facebook, Azure AD); markdown formatting; ultra-lightweight Docker deployment.
+* **Tech Stack:** Go (Golang), React, PostgreSQL.
+* **License:** AGPL-3.0.
 
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**
+### 5. **[SurveyKing](https://github.com/javahuang/SurveyKing)** [![GitHub stars](https://img.shields.io/github/stars/javahuang/SurveyKing?style=social&color=white)](https://github.com/javahuang/SurveyKing/stargazers) 🌟
+* **Description:** Feature-complete, enterprise-ready survey and examination system designed as a self-hosted alternative to SurveyMonkey.
+* **Features:** One-command deployment; 20+ question types; permission-based multi-user workspace management; barcode and question flow logic; rich visual analytics dashboards; offline questionnaire collection support.
+* **Tech Stack:** Java, Spring Boot, Vue.js, MySQL / PostgreSQL.
+* **License:** Apache-2.0.
 
-  **The world's #1 open-source survey platform** (GPL v2) — **the veteran research-grade survey engine**, active since 2006 and trusted by businesses, universities, and governments in 80+ countries . **Features**: **Unlimited surveys and questions**; **30+ question types**; **900+ survey templates**; **multilingual surveys (80+ languages)**; skip logic and question branching; **GDPR compliance**; two-factor authentication; SAML/LDAP integration; **NPS question type supported**; data export to SPSS/R/STATA; WCAG 2.0 compliance . **Tech stack**: PHP, MySQL/MariaDB/PostgreSQL. **Deploy**: Self-hosted (Docker, manual) or LimeSurvey Cloud . **Trade-off**: **Utilitarian interface** compared to Formbricks; heavier for simple in-app NPS. **Best for**: research teams, academics, and organizations running long-form questionnaires where question logic and statistical exports matter.
+### 6. **[Xiaoju Survey](https://github.com/didi/xiaoju-survey)** [![GitHub stars](https://img.shields.io/github/stars/didi/xiaoju-survey?style=social&color=white)](https://github.com/didi/xiaoju-survey/stargazers) 🌟
+* **Description:** Enterprise-grade questionnaire, survey, and quiz system open-sourced by Didi.
+* **Features:** Rich question configuration; flexible visual theme builder; logic jump rules; automated statistical charting; cross-device responsive survey rendering; enterprise access control.
+* **Tech Stack:** Node.js (NestJS), Vue 3, TypeScript, MySQL.
+* **License:** Apache-2.0.
 
+### 7. **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers) 🌟
+* **Description:** The veteran, research-grade open-source survey engine trusted since 2006 by leading universities, market researchers, and governments globally.
+* **Features:** 30+ sophisticated question types; 80+ supported languages; advanced statistical data export (SPSS, R, STATA, CSV); intricate quota management; assessment scoring; full WCAG 2.0 and GDPR compliance.
+* **Tech Stack:** PHP, MySQL / MariaDB / PostgreSQL.
+* **License:** GPL-2.0.
 
+### 8. **[DWSurvey](https://github.com/wkeyuan/DWSurvey)** [![GitHub stars](https://img.shields.io/github/stars/wkeyuan/DWSurvey?style=social&color=white)](https://github.com/wkeyuan/DWSurvey/stargazers) 🌟
+* **Description:** Convenient, secure, and extensible open-source online survey questionnaire and assessment tool.
+* **Features:** WYSIWYG questionnaire designer; branch logic rules; mobile-optimized response views; data cross-analysis; multiple export formats; role-based administration.
+* **Tech Stack:** Java, Spring Boot, React, MySQL.
+* **License:** AGPL-3.0.
 
-- **[HeyForm](https://github.com/heyform/heyform)**
+### 9. **[OhMyForm](https://github.com/ohmyform/ohmyform)** [![GitHub stars](https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white)](https://github.com/ohmyform/ohmyform/stargazers) 🌟
+* **Description:** Clean, lightweight open-source form builder and survey tool inspired by Typeform and TellForm.
+* **Features:** Embeddable responsive forms; Forms-as-a-Service API; customizable webhook notifications on submission; submissions exportable to XLS, JSON, and CSV; minimal deployment footprint.
+* **Tech Stack:** Node.js, Vue.js, PostgreSQL / SQLite.
+* **License:** Apache-2.0.
 
-  **Open-source conversational form builder** (AGPL-3.0) — **the most accessible open-source Typeform alternative** for surveys, quizzes, and polls . **Features**: **Versatile inputs** (text, email, phone, picture choices, date pickers, file uploads); **conditional logic and URL redirections**; **integrations** with webhooks, Zapier, and Make.com; **visual themes** with custom CSS; **analytics** including drop-off and completion rates; CSV export; self-hosting with one-click deployment options; OpenID Connect support for self-hosted identity providers . **Tech stack**: Node.js, React. **Deploy**: Self-hosted or HeyForm Cloud . **Trade-off**: **Form builder, not a dedicated NPS/CSAT platform**—no built-in scoring or feedback analytics specific to satisfaction metrics. **Best for**: teams wanting conversational, branded surveys with logic branching—especially those migrating from Typeform.
-
-
-
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)**
-
-  **Open-source TypeForm alternative** (license per repo) — **the lightweight form builder for mobile-ready surveys** . **Features**: Multi-language support; 11 question types; editable start/end pages; **export submissions to XLS, JSON, or CSV**; native analytics and Google Analytics support; embeddable forms; **Forms-as-a-Service API**; customizable notifications; **webhooks on submission**; deployable with Heroku and DockerHub; PostgreSQL and SQLite support. **Tech stack**: Per repository. **Deploy**: Self-hosted (Docker, Heroku) . **Trade-off**: **Fewer question types (11)** than HeyForm or LimeSurvey; roadmap features (file upload, payment field, encryption) not yet implemented . **Best for**: developers wanting a simple, API-friendly form builder with webhooks—not a full survey platform.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **SurveySensum (HubSpot app)** — Free plan with **25 responses/month, 500 emails/month, unlimited surveys and users** . **Note**: **HubSpot marketplace app**, not standalone open source—requires HubSpot. **Best for**: HubSpot users wanting free survey capability within their CRM.
-
-
-
-**Frameworks for building custom systems**: Combine **Formbricks** for in-product NPS and micro-surveys with **LimeSurvey** for research-grade questionnaires and **HeyForm** for conversational forms—creating a feedback stack matched to different collection contexts. **None of these match Qualtrics's research depth or Delighted's NPS automation**, but for core satisfaction measurement, Formbricks and LimeSurvey cover most needs.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Customer feedback platforms handling respondent data must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for survey responses and satisfaction scores.
-
-- **The "in-product NPS" vs. "research-grade survey" vs. "conversational form builder" distinction is critical.** **Formbricks** is **in-product NPS**—it targets users by behavior and triggers surveys inside the app . **LimeSurvey** is **research-grade**—it handles long questionnaires with deep logic and statistical exports . **HeyForm and OhMyForm** are **form builders**—they collect responses but lack NPS-specific scoring and analytics . **Choose based on whether you need contextual in-app NPS, deep research surveys, or conversational forms.**
-
-- **Formbricks is the best open-source choice for in-product NPS.** With 10,000+ stars, in-app/website/link/email surveys, behavior-based targeting, and Docker self-hosting, it is the modern alternative for product teams . **The trade-off**: less suited for long-form research than LimeSurvey.
-
-- **LimeSurvey is the veteran for research.** Since 2006, with 30+ question types, SPSS/R exports, and GDPR compliance, it is hard to beat for academic and market research . **The trade-off**: utilitarian interface; heavier for simple in-app NPS.
-
-- **Qualtrics offers a free account with 500 lifetime responses and 3 active surveys**—useful for exploration but exhausted quickly . **SurveyMonkey's free tier is 10 questions per survey with limited responses** . **Typeform's free tier is 10 responses/month**—a sandbox, not production . **Survicate's free tier is the most generous at 25 responses/month with in-product capability** .
-
-- **Pricing opacity varies.** Qualtrics, SurveyMonkey, Typeform, Survicate, AskNicely, Nicereply, CustomerGauge, Delighted, InMoment, and HubSpot all have published or partially published pricing, but enterprise tiers require sales contact. **Validate with direct vendor conversations against your response volume and feature needs.**
-
-- Self-hosted open-source solutions require proper infrastructure (PostgreSQL for Formbricks, PHP/MySQL for LimeSurvey, Node.js for HeyForm), security hardening, and ongoing maintenance. **Survey data includes respondent PII and sentiment**—ensure your deployment meets your organization's privacy and GDPR requirements before collecting responses.
-
-
+### 10. **[Astuto](https://github.com/astuto/astuto)** [![GitHub stars](https://img.shields.io/github/stars/astuto/astuto?style=social&color=white)](https://github.com/astuto/astuto/stargazers) 🌟
+* **Description:** Modern, self-hosted customer feedback tool and public feature request board inspired by Canny.
+* **Features:** User feedback collection; roadmap boards; changelog publishing; user upvoting; privacy-centric self-hosting via Docker; clean UI design.
+* **Tech Stack:** Ruby on Rails, Vue.js, PostgreSQL.
+* **License:** GNU GPLv3.
+ 
+### 11. **[LogChimp](https://github.com/logchimp/logchimp)** [![GitHub stars](https://img.shields.io/github/stars/logchimp/logchimp?style=social&color=white)](https://github.com/logchimp/logchimp/stargazers) 🌟
+* **Description:** Open-source product feedback tracker and feature request management software alternative to Canny and ProductBoard.
+* **Features:** Public and private feedback boards; user voting and roadmap prioritization; user sentiment tracking; customizable statuses; fast modern web application.
+* **Tech Stack:** Node.js, Express, Vue.js, PostgreSQL.
+* **License:** Apache-2.0.
 
 ---
 
+## ⭐ Star History 📊
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Satisfaction-Feedback-Surveys&type=date&legend=top-left)
 
-**Made for product teams, CX researchers, and organizations building transparent feedback solutions.**
+---
 
-Let's make Customer Satisfaction & Feedback Surveys more open, data-driven, and respondent-friendly.
+## 🤝 How to Contribute ✍️
+
+We warmly welcome community contributions to keep this feedback stack current, accurate, and comprehensive!
+
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-tool`).
+3. 📝 Add or update entries following the established table / list format (provide factual descriptions, license, scale, and pricing details).
+4. 🚀 Commit your changes (`git commit -m 'Add ToolName to open-source section'`).
+5. 📤 Push to your fork (`git push origin feature/add-new-tool`).
+6. 📬 Submit a **Pull Request** detailing why the tool is a great addition to the ecosystem.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you for visiting and using **Awesome Customer Satisfaction & Feedback Surveys**! 🎉
+
+If you found this curated list helpful for your organization, product stack, or research:
+* ⭐ **Star** this repository on GitHub to help others discover it.
+* 🍴 **Fork** and share it across your developer and CX communities.
+* ☕ **Buy a coffee / Sponsor the project**: Support continuous research and repository maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer 📜
+
+- This repository is an independent, **community-curated** directory and does not constitute a formal endorsement of any listed service or product.
+- **Data Protection & Privacy:** Customer feedback software frequently captures customer personally identifiable information (PII), contact data, and sentiment. Always ensure your deployment and vendor agreements comply with relevant legislation (GDPR, CCPA, HIPAA, etc.).
+- **Pricing & Features:** SaaS subscription prices, free plan limits, and product architectures evolve constantly. Validate current pricing and quotas directly with official vendor documentation prior to purchasing decisions.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for product engineers, CX leaders, and teams building world-class customer feedback experiences.</b>
+</p>
